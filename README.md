@@ -1,4 +1,4 @@
-Additional part configs for RSS/RO with support for RP-1 and Kerbalism.
+Additional part configs for RSS/RO with support for RP-1 and Kerbalism.\
 All parts are fictional. The aim is not to replicate real world parts, but rather to fill out mid/end game tech nodes with neat/futuristic parts.
 
 

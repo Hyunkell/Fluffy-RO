@@ -3,14 +3,14 @@ All parts are fictional. The aim is not to replicate real world parts, but rathe
 
 
 **Requirements:**
-- Realism Overhaul and all of its required mods
-- Module manager
+- [Realism Overhaul](https://github.com/KSP-RO/RealismOverhaul) and all of its required mods
+- [Module manager](https://github.com/sarbian/ModuleManager)
 
 **Highly recommended**
-- RP-1
-- ROKerbalism
-- RealAntennas
-- TestLite
+- [RP-1](https://github.com/KSP-RO/RP-0)
+- [ROKerbalism](https://github.com/Standecco/ROKerbalism)
+- [RealAntennas](https://github.com/DRVeyl/RealAntennas)
+- [TestLite](https://github.com/ec429/TestLite)
 
 **Supported Mods**
 - [ROEngines](https://github.com/KSP-RO/ROEngines)
